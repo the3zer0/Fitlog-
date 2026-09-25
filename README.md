@@ -40,3 +40,13 @@ Install the dependencies:
 
 ```bash
 npm install
+## Deployment
+
+The project can be deployed on Vercel.
+
+1. Push the project to GitHub.
+2. Import the repository into Vercel.
+3. Keep the default Next.js build settings.
+4. Deploy the project.
+
+The application uses the provided FitLog API, so no custom backend setup is required.
